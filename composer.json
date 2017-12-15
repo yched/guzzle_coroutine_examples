@@ -1,0 +1,6 @@
+{
+    "name": "root/guzzle_coroutine_examples",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
