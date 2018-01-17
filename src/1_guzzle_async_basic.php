@@ -1,8 +1,8 @@
 <?php
 
 // composer require guzzlehttp/guzzle
-include ('../vendor/autoload.php');
-include ('./common.php');
+include (__DIR__ . '/../vendor/autoload.php');
+include (__DIR__ . '/common.php');
 
 use GuzzleHttp\Psr7\Request;
 use GuzzleHttp\Promise;

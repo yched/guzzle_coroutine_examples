@@ -1,6 +1,6 @@
 <?php
 
-require ('./common.php');
+include (__DIR__ . '/common.php');
 
 function my_generator($count, $seed = 0) {
     for ($i = 0; $i <= $count; $i++) {
